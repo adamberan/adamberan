@@ -2,6 +2,8 @@
 
 i'm a programmer / data scientist
 
+![Hello](https://tenor.com/cs/view/waving-gif-gif-1917843711824962302.gif)
+
 ### Skills
 
 Programming languages:
