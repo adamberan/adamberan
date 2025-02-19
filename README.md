@@ -4,6 +4,12 @@ i'm a programmer / data scientist
 
 ![Hello](https://tenor.com/cs/view/waving-gif-gif-1917843711824962302.gif)
 
+### Stats
+
+sometimes less is more ₍^. .^₎⟆
+
+![adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamberan&icon_color=ff7599&ring_color=cc99ff&show_icons=true&hide_title=true)
+
 ### Skills
 
 Technology
