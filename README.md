@@ -29,8 +29,12 @@ Technology
 
 Software
 
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white&style=for-the-badge)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=white&style=for-the-badge)
+
 ![Spyder](https://img.shields.io/badge/Spyder-8C0000?logo=spyderide&logoColor=white&style=for-the-badge)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudioide&logoColor=white&style=for-the-badge)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=white&style=for-the-badge)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=white&style=for-the-badge)
+
+
